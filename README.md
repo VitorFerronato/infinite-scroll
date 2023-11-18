@@ -19,6 +19,9 @@ This project is an implementation of an infinite scroll list using Vue.js, vueUs
 - **DummyJson**
 - **Axios**
 
+- ## Deploy
+[https://lnkd.in/eC5DhgeF](https://infinite-scroll-vue.netlify.app/)
+
 
 ## Testing
 
